@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
     res.send("<h1>Welcome to our website!</h1>");
   } else {
     // If it's a real user, redirect to Adsterra
-    res.redirect("https://accountantflowerrespiration.com/btsdzqsin?key=53c412139bf21ec62d735645c61ae34c");
+    res.redirect("https://accountantflowerrespiration.com/gpg28g90j?key=f11bf3680903d6e6c27daaa06d7a1791");
   }
 });
 
